@@ -1,16 +1,11 @@
-#include <iostream>
-#include <string>
-using namespace std;
+# CSCI-271-Fall-2026
 
-// Assignment 1 - Shakur OuroGouni
-int main() {
-    cout << "Hello, world!\n";
-    
-    string name;
-    cout << "What is your name? ";
-    cin >> name;
-    
-    cout << "Nice to meet you, " << name << "!\n";
-    
-    return 0;
-}
+### Student Information
+* **Name:** Shakur OuroGouni
+* **Course:** CSCI-271 (Fall 2026)
+
+### Assignment 1: Personalized Hello World
+* **Files Included:** `hello.cpp`
+* **Description:** A C++ program that prompts the user for their name and outputs a personalized greeting.
+* **How to Compile:** `g++ -o hello hello.cpp`
+* **How to Run:** `./hello`
